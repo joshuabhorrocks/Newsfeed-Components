@@ -85,6 +85,33 @@ const data = [
     thirdParagraph: `Hodor hodor - hodor... Hodor hodor hodor hodor. Hodor. Hodor! Hodor hodor, hodor hodor hodor hodor hodor; hodor hodor? Hodor!
           Hodor hodor, HODOR hodor, hodor hodor?! Hodor! Hodor hodor, HODOR hodor, hodor hodor, hodor, hodor hodor. Hodor, hodor.
           Hodor. Hodor, hodor, hodor. Hodor hodor... Hodor hodor hodor?! Hodor, hodor... Hodor hodor HODOR hodor, hodor hodor. Hodor.`
+  },
+  {
+    title: "Ipsum. Lorem Ipsum.",
+    date: "Classified",
+    firstParagraph: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tempus imperdiet nulla malesuada pellentesque elit eget gravida cum sociis. Pulvinar etiam non quam lacus suspendisse faucibus interdum posuere lorem. Sit amet luctus venenatis lectus magna. Habitant morbi tristique senectus et netus et malesuada fames. Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique. Magnis dis parturient montes nascetur ridiculus. Egestas fringilla phasellus faucibus scelerisque eleifend donec. Nulla aliquet enim tortor at auctor urna nunc. In nibh mauris cursus mattis molestie. Netus et malesuada fames ac turpis egestas integer eget. Vivamus arcu felis bibendum ut tristique. Et magnis dis parturient montes nascetur ridiculus mus. Ut placerat orci nulla pellentesque dignissim.",
+
+    secondParagraph: "Leo vel orci porta non pulvinar neque laoreet suspendisse. Dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras. Sit amet purus gravida quis. In hac habitasse platea dictumst quisque sagittis purus sit amet. Ipsum faucibus vitae aliquet nec ullamcorper sit amet. Nunc consequat interdum varius sit amet mattis vulputate. Morbi tristique senectus et netus et malesuada. Eget lorem dolor sed viverra. Semper feugiat nibh sed pulvinar proin. Ullamcorper eget nulla facilisi etiam dignissim diam. Mi eget mauris pharetra et ultrices. Est placerat in egestas erat imperdiet sed euismod.",
+
+    thirdParagraph: "Neque egestas congue quisque egestas diam. Nisl nisi scelerisque eu ultrices vitae auctor. Nulla posuere sollicitudin aliquam ultrices sagittis orci. Tellus cras adipiscing enim eu turpis egestas pretium aenean pharetra. Sem integer vitae justo eget magna. Amet nisl purus in mollis nunc sed. Lacus viverra vitae congue eu consequat ac felis. Ullamcorper malesuada proin libero nunc. Mauris vitae ultricies leo integer malesuada nunc vel risus. Congue eu consequat ac felis donec et odio."
+  },
+  {
+    title: "LOREEEEEEEEEEEEEEEEEEM!!!",
+    date: "Stardate: 8130.3",
+    firstParagraph: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Velit aliquet sagittis id consectetur. Diam volutpat commodo sed egestas egestas fringilla. Aenean et tortor at risus viverra adipiscing at in. Egestas sed tempus urna et pharetra. Enim tortor at auctor urna. Egestas fringilla phasellus faucibus scelerisque eleifend donec. Ornare lectus sit amet est placerat in egestas. Amet aliquam id diam maecenas. Congue quisque egestas diam in. Sociis natoque penatibus et magnis dis parturient montes. Ipsum a arcu cursus vitae. Enim blandit volutpat maecenas volutpat blandit. Nulla aliquet enim tortor at auctor urna nunc id cursus.",
+
+    secondParagraph: "Velit euismod in pellentesque massa placerat duis ultricies lacus. Tellus mauris a diam maecenas sed. Eu scelerisque felis imperdiet proin. Dui id ornare arcu odio. Mattis aliquam faucibus purus in massa. Sit amet risus nullam eget. Augue mauris augue neque gravida in fermentum. Tortor id aliquet lectus proin. Venenatis urna cursus eget nunc. Blandit libero volutpat sed cras ornare. Lacinia quis vel eros donec ac odio. Viverra nibh cras pulvinar mattis nunc sed blandit. Habitant morbi tristique senectus et netus et. Id faucibus nisl tincidunt eget nullam non nisi est sit. Blandit aliquam etiam erat velit scelerisque. In eu mi bibendum neque.",
+
+    thirdParagraph: "Sed odio morbi quis commodo odio aenean sed adipiscing diam. Sed risus pretium quam vulputate dignissim suspendisse in est ante. Mi tempus imperdiet nulla malesuada pellentesque elit eget gravida cum. Quisque id diam vel quam elementum pulvinar etiam. Nulla facilisi cras fermentum odio eu. Diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Habitasse platea dictumst quisque sagittis purus sit amet. Ultricies mi eget mauris pharetra. Auctor neque vitae tempus quam pellentesque. Elementum tempus egestas sed sed. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae semper. Nam aliquam sem et tortor consequat id porta nibh venenatis. Amet purus gravida quis blandit turpis cursus in hac."
+  },
+  {
+    title: "One Lorem To Ipsum Them All",
+    date: "The Third Age",
+    firstParagraph: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis eleifend quam adipiscing vitae proin sagittis nisl. Phasellus faucibus scelerisque eleifend donec pretium vulputate sapien. Ultricies mi quis hendrerit dolor magna eget est lorem ipsum. Varius sit amet mattis vulputate enim nulla aliquet porttitor. Neque vitae tempus quam pellentesque nec nam. Ultricies lacus sed turpis tincidunt id aliquet risus. Est sit amet facilisis magna etiam tempor orci. Dictum at tempor commodo ullamcorper a. Consectetur adipiscing elit pellentesque habitant morbi tristique senectus et netus. Aenean sed adipiscing diam donec adipiscing. Risus quis varius quam quisque id diam vel quam elementum. Egestas dui id ornare arcu odio ut sem. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien. Augue neque gravida in fermentum et. Viverra vitae congue eu consequat ac felis donec et odio. Ac placerat vestibulum lectus mauris ultrices eros in. Egestas purus viverra accumsan in.",
+    
+    secondParagraph: "Morbi tempus iaculis urna id volutpat. Erat pellentesque adipiscing commodo elit at. Tellus molestie nunc non blandit massa enim. Velit laoreet id donec ultrices tincidunt arcu. Eu tincidunt tortor aliquam nulla facilisi cras fermentum odio. Congue quisque egestas diam in. Magna ac placerat vestibulum lectus. Eu nisl nunc mi ipsum. Ante metus dictum at tempor commodo ullamcorper a. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper sit amet. Iaculis at erat pellentesque adipiscing commodo elit at imperdiet. Urna cursus eget nunc scelerisque viverra. Maecenas ultricies mi eget mauris. Est velit egestas dui id ornare. Interdum posuere lorem ipsum dolor sit amet consectetur adipiscing elit. Eget arcu dictum varius duis. Purus in mollis nunc sed id semper risus in hendrerit. Sagittis aliquam malesuada bibendum arcu vitae elementum. Porta lorem mollis aliquam ut porttitor leo.",
+
+    thirdParagraph: "Arcu risus quis varius quam quisque id. Ut sem nulla pharetra diam sit. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus. Et leo duis ut diam quam nulla. Diam maecenas ultricies mi eget mauris pharetra. Et tortor at risus viverra adipiscing at in tellus integer. Lectus proin nibh nisl condimentum id venenatis a. Pellentesque habitant morbi tristique senectus et. Id diam vel quam elementum. Etiam non quam lacus suspendisse. Massa id neque aliquam vestibulum morbi blandit cursus. Amet tellus cras adipiscing enim eu turpis egestas pretium aenean. Consequat interdum varius sit amet mattis vulputate enim nulla aliquet. Cursus mattis molestie a iaculis at."
   }
 ];
 
@@ -112,3 +139,44 @@ const data = [
   Step 5: Add a new article to the array. Make sure it is in the same format as the others. Refresh the page to see the new article.
 
 */
+function compCreator(title, date, firstParagraph, secondParagraph, thirdParagraph) {
+  const article = document.createElement("div");
+  const card = document.createElement("div");
+  const titleh2 = document.createElement("h2");
+  const dateNum = document.createElement("p");
+  const firstP = document.createElement("p");
+  const secondP = document.createElement("p");
+  const thirdP = document.createElement("p");
+  const button = document.createElement("span");
+
+  article.append(card);
+  card.append(titleh2);
+  card.append(dateNum);
+  card.append(firstP, secondP, thirdP);
+  card.append(button);
+
+  article.classList.add(".articles");
+  card.classList.add("article");
+  dateNum.classList.add("date");
+  button.classList.add("expandButton");
+
+  titleh2.textContent = title;
+  dateNum.textContent = date;
+  firstP.textContent = firstParagraph;
+  secondP.textContent = secondParagraph;
+  thirdP.textContent = thirdParagraph;
+  button.textContent = "Expand/Minimize";
+
+  button.addEventListener("click", () => {
+    card.classList.toggle("article-open");
+    button.classList.toggle("expandButton");
+    button.classList.toggle("close");
+  })
+
+  return card;
+}
+const parent = document.querySelector(".articles");
+
+data.map(x => {
+  parent.append(compCreator(x.title, x.date, x.firstParagraph, x.secondParagraph, x.thirdParagraph))
+})
